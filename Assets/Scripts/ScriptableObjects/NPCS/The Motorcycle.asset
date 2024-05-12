@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671d1a4ce99a2e143b0dc2f8731de3b6, type: 3}
+  m_Name: The Motorcycle
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  charName: motor
+  position: {x: 3.894, y: -3, z: 0}
+  dialogues: []
+  dialogueScenesIndex: 
+  questList: {fileID: 0}
+  glowMaterial: {fileID: -876546973899608171, guid: 08fc22936be05f14fba5526fe0ccb2c3, type: 3}
+  textColor: {r: 0.21176471, g: 0.023529412, b: 0.043137256, a: 1}

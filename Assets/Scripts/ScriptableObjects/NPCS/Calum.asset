@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671d1a4ce99a2e143b0dc2f8731de3b6, type: 3}
+  m_Name: Calum
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  charName: calum
+  position: {x: 9.659973, y: -0.75231934, z: -0.0201617}
+  dialogues:
+  - {fileID: 4900000, guid: 3a2f901e8a8f69b41a6bb1e1cd607367, type: 3}
+  - {fileID: 4900000, guid: 964321f9ec9bb9344afab0338cdbc7a8, type: 3}
+  questList: {fileID: 11400000, guid: ca3d89c38935dc74183387f84bd36566, type: 2}
+  sceneIndex: 0
+  glowMaterial: {fileID: -876546973899608171, guid: 08fc22936be05f14fba5526fe0ccb2c3, type: 3}
+  textColor: {r: 0.019607844, g: 0.3019608, b: 0.9607843, a: 1}

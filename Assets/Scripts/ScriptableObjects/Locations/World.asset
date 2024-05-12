@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7035ebb0d96cf4b8d7fe41c592632d, type: 3}
+  m_Name: World
+  m_EditorClassIdentifier: 
+  loadIndex: 1
+  currentScene: 0
+  locationScenes:
+  - {fileID: 11400000, guid: ca050eb5bb3db9e4ea86120f16975db9, type: 2}
+  - {fileID: 11400000, guid: 95036785ce35e44498d3c9a9401727d8, type: 2}
+  - {fileID: 11400000, guid: 42b388e668843cd4eaebd8830a044969, type: 2}
+  - {fileID: 11400000, guid: 48b9064397c49cf4fa9cbb49100c970a, type: 2}
+  - {fileID: 11400000, guid: 7a4fc8aac69338e4ab50296079bed53c, type: 2}
+  - {fileID: 11400000, guid: bfebf2a1155f4d44ca8de2414e54dac6, type: 2}
+  locationEnter: {x: 0, y: 0, z: 0}
+  locationExit: {x: 0, y: 0, z: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7035ebb0d96cf4b8d7fe41c592632d, type: 3}
+  m_Name: Gas
+  m_EditorClassIdentifier: 
+  loadIndex: 9
+  currentScene: 0
+  locationScenes:
+  - {fileID: 11400000, guid: e18c10db49bf8c44ea58cfb0be8f9815, type: 2}
+  - {fileID: 11400000, guid: f8c98e88f56b78d4cbce8879af781f24, type: 2}
+  - {fileID: 11400000, guid: 095983e426f56e347a6f686067e18867, type: 2}
+  - {fileID: 11400000, guid: 80940ba25ad89164d96bb72b06f5fbd7, type: 2}
+  - {fileID: 11400000, guid: c3024af184efbf746b92da317898aa29, type: 2}
+  - {fileID: 11400000, guid: 05089edf9f584fe43b51f557955d1c85, type: 2}
+  locationEnter: {x: -0.5, y: -2.514148, z: 0}
+  locationExit: {x: 40.57, y: -0.73, z: 0}

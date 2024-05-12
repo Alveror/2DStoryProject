@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7035ebb0d96cf4b8d7fe41c592632d, type: 3}
+  m_Name: Bar
+  m_EditorClassIdentifier: 
+  loadIndex: 5
+  currentScene: 0
+  locationScenes:
+  - {fileID: 11400000, guid: c868e4cc82f36a9488c9c06f66d63f69, type: 2}
+  - {fileID: 11400000, guid: 67b454fddeb9cb84caa4291e8774d44f, type: 2}
+  - {fileID: 11400000, guid: df3feafc1e0867146a9e34c8076cd4ca, type: 2}
+  - {fileID: 11400000, guid: 9921844aa3095174cab9bd6d4faca204, type: 2}
+  - {fileID: 11400000, guid: 3f0317560368eac4fb0dabcb6b0c6f30, type: 2}
+  - {fileID: 11400000, guid: 9a69836b0e16f4f49b968a1b7a3aad83, type: 2}
+  locationEnter: {x: 0.63, y: 0.4826514, z: 0}
+  locationExit: {x: 31.29, y: -0.73, z: 0}

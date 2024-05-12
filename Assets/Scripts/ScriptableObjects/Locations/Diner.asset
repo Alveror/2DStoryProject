@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7035ebb0d96cf4b8d7fe41c592632d, type: 3}
+  m_Name: Diner
+  m_EditorClassIdentifier: 
+  loadIndex: 7
+  currentScene: 0
+  locationScenes:
+  - {fileID: 11400000, guid: 322355049f8bc6d40931135b296a6a11, type: 2}
+  - {fileID: 11400000, guid: 5d90a5cab3d96c844af7c0cddf7fffec, type: 2}
+  - {fileID: 11400000, guid: d20bfcbc73539a248b7c570ad679de23, type: 2}
+  - {fileID: 11400000, guid: 9e92fccb24b5e8f4dac119d30f4ae0b2, type: 2}
+  - {fileID: 11400000, guid: 8aece93f0b608874aa40663ebf144652, type: 2}
+  - {fileID: 11400000, guid: ba9bc88a8af26524a8cef9d01fb55f8f, type: 2}
+  locationEnter: {x: 15.72, y: 0.5, z: 0}
+  locationExit: {x: -7.4, y: -0.73, z: 0}
